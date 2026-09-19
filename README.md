@@ -39,7 +39,7 @@
 
 ---
 
-## 📚 Projeto em destaque
+## 📚 Projetos em destaque
 
 ### [📖 Biblioteca Eletrônica](https://github.com/NAITBEAbr/Biblioteca-Eletronica)
 
@@ -47,6 +47,14 @@ Aplicativo mobile para controle de empréstimo e devolução de livros: o funcio
 escaneia o código de barras do livro e o da identificação do aluno, e o app registra a
 operação automaticamente, validando a disponibilidade do livro e quantos livros o aluno
 já tem em mãos.
+
+`React Native` · `Expo` · `JavaScript` · `Firebase Authentication` · `Cloud Firestore`
+
+### [💳 SafeCard](https://github.com/NAITBEAbr/SafeCard)
+
+Carteira digital de cartões de fidelidade: o usuário escaneia o código de barras do
+cartão pela câmera e o app guarda tudo na conta dele. Na hora de usar, exibe o código
+na tela para o caixa ler. Tem conta própria, lista em tempo real e busca.
 
 `React Native` · `Expo` · `JavaScript` · `Firebase Authentication` · `Cloud Firestore`
 
