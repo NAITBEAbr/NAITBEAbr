@@ -42,13 +42,7 @@
 
 ## 📚 Projeto em destaque
 
-<div align="center">
-
-<a href="https://github.com/NAITBEAbr/Biblioteca-Eletronica">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NAITBEAbr&repo=Biblioteca-Eletronica&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38a3f1&icon_color=7cc4fa&text_color=c9d1d9" />
-</a>
-
-</div>
+### [📖 Biblioteca Eletrônica](https://github.com/NAITBEAbr/Biblioteca-Eletronica)
 
 Aplicativo mobile para controle de empréstimo e devolução de livros: o funcionário
 escaneia o código de barras do livro e o da identificação do aluno, e o app registra a
@@ -63,14 +57,12 @@ já tem em mãos.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NAITBEAbr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38a3f1&icon_color=7cc4fa&text_color=c9d1d9&locale=pt-br" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAITBEAbr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38a3f1&text_color=c9d1d9&locale=pt-br" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAITBEAbr&theme=tokyonight" />
 
-</div>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NAITBEAbr&theme=tokyonight" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NAITBEAbr&theme=tokyonight" />
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NAITBEAbr&theme=tokyonight&hide_border=true&background=0d1117&ring=38a3f1&fire=7cc4fa&currStreakLabel=7cc4fa&locale=pt_BR)
+<img src="https://streak-stats.demolab.com?user=NAITBEAbr&theme=tokyonight&hide_border=true&background=0d1117&ring=38a3f1&fire=7cc4fa&currStreakLabel=7cc4fa&locale=pt_BR" />
 
 </div>
 
