@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=38A3F1&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%99;Buscando+est%C3%A1gio+em+Desenvolvimento+%F0%9F%8C%90;Programando+desde+2022+%F0%9F%92%BB;Buritis+-+MG+%F0%9F%93%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=38A3F1&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%99;Buscando+est%C3%A1gio+em+Desenvolvimento+%F0%9F%8C%90;Programando+desde+2022+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,6 @@
 - **Base:** programando desde 2022, pela BYJU'S Future School
 - **Estudando agora:** back-end com Python, banco de dados e front-end com HTML e CSS
 - **Objetivo:** primeira oportunidade de estágio em desenvolvimento
-- **Cidade:** Buritis — MG
 
 ---
 
